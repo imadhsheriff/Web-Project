@@ -1,2 +1,2 @@
 # Web-Project
-Web for Adventures
+Web for Adventures (globetrek)
